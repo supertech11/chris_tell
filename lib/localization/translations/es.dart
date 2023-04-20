@@ -1,0 +1,1 @@
+const langES = <String, String>{};
